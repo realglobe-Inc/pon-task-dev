@@ -78,7 +78,7 @@ const pon = require('pon')
 const {mocha} = require('pon-task-dev')
 
 ;(async () => {
-  let run = pon({
+  const run = pon({
     'test:mocha': mocha('test/*_test.js')
   })
 
