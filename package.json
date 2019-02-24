@@ -23,24 +23,24 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-dev#readme",
   "dependencies": {
-    "pon-task-coz": "^1.0.3",
+    "pon-task-coz": "^2.0.3",
     "pon-task-fmtjson": "^2.0.4",
-    "pon-task-mocha": "^3.0.1",
-    "pon-task-pondoc": "^1.0.9"
+    "pon-task-mocha": "^3.0.3",
+    "pon-task-pondoc": "^1.0.10"
   },
   "devDependencies": {
-    "ababel": "^5.0.8",
-    "amocha": "^5.0.0",
+    "ababel": "^5.0.10",
+    "amocha": "^5.0.1",
     "ape-doc": "^2.0.4",
-    "ape-formatting": "^1.0.2",
-    "ape-releasing": "^5.0.0",
-    "ape-tasking": "^4.0.9",
-    "ape-tmpl": "^6.0.11",
-    "ape-updating": "^5.0.1",
-    "coz": "^7.0.2",
+    "ape-formatting": "^2.0.1",
+    "ape-releasing": "^5.0.6",
+    "ape-tasking": "^4.0.12",
+    "ape-tmpl": "^6.0.13",
+    "ape-updating": "^5.0.3",
+    "coz": "^7.0.15",
     "injectmock": "^2.0.0",
     "pon-context": "^3.0.2",
-    "pon-doc": "^2.0.1",
+    "pon-doc": "^3.0.1",
     "sugos-travis": "^2.0.7"
   },
   "engines": {
