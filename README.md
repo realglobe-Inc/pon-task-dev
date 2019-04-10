@@ -107,6 +107,15 @@ Define task
 | options | Object |  Optional settings |
 
 
+### `eslint(options) -> function`
+
+ESLint task
+
+| Param | type | Description |
+| ---- | --- | ----------- |
+| options | Object |  |
+
+
 
 <!-- Section from "doc/guides/03.Signature.md.hbs" End -->
 
