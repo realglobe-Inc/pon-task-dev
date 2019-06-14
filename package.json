@@ -1,6 +1,6 @@
 {
   "name": "pon-task-dev",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Pon tasks for dev",
   "main": "lib",
   "browser": "shim/browser",
@@ -26,8 +26,8 @@
     "pon-task-command": "^3.1.6",
     "pon-task-coz": "^2.0.3",
     "pon-task-fmtjson": "^2.0.4",
-    "pon-task-mocha": "^3.0.3",
-    "pon-task-pondoc": "^1.0.11"
+    "pon-task-mocha": "^3.0.4",
+    "pon-task-pondoc": "^1.0.12"
   },
   "devDependencies": {
     "ababel": "^6.0.0",
