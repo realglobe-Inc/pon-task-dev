@@ -26,11 +26,11 @@
     "pon-task-command": "^3.1.6",
     "pon-task-coz": "^2.0.3",
     "pon-task-fmtjson": "^2.0.4",
-    "pon-task-mocha": "^3.0.4",
-    "pon-task-pondoc": "^1.0.12"
+    "pon-task-mocha": "^3.0.5",
+    "pon-task-pondoc": "^1.0.14"
   },
   "devDependencies": {
-    "ababel": "^6.0.0",
+    "ababel": "^6.0.3",
     "amocha": "^6.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^2.0.2",
